@@ -35,7 +35,7 @@ print '</pre>';
 //output
 
 ?>
-<?php
+<?
 $field_values_array = $_REQUEST['field_name'];
 foreach($field_values_array as $value){
     //your database query goes here
